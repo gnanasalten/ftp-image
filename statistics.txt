@@ -1,16 +1,16 @@
 Used disk space (in TB) for instance=10.254.0.20:9100
 
 Device: /dev/mapper/vg_data-lvol1
+  2025-07-28 10:30:01: null TB
   2025-07-28 09:30:01: null TB
   2025-07-28 08:30:01: null TB
   2025-07-28 07:30:01: null TB
   2025-07-28 06:30:01: null TB
-  2025-07-28 05:30:01: null TB
 
 Device: /dev/mapper/vg_cache-lvol1
+  2025-07-28 10:30:01: null TB
   2025-07-28 09:30:01: null TB
   2025-07-28 08:30:01: null TB
   2025-07-28 07:30:01: null TB
   2025-07-28 06:30:01: null TB
-  2025-07-28 05:30:01: null TB
 
