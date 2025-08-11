@@ -30,3 +30,19 @@ Filesystem                  Size  Used  Avail  Use%  Mounted_on
                   4   w    0    0         2    2      0.130 0.130 4.1 4.1    -
                   4   t    0    0         2    2      0.130 0.130 4.1 4.1    0
 
+2025-08-11 17:30:01
+============================================
+     Filesystem Utilization
+============================================
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  53T   48T    53%   /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+
+============================================
+     3PAR VLUN Statistics
+============================================
+17:36:26 08/11/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
+                  4   w    0    0         8    8      0.881 0.881 16.4 16.4    -
+                  4   t    0    0         8    8      0.881 0.881 16.4 16.4    0
+
