@@ -1,19 +1,50 @@
-2025-08-11 15:30:01
+2025-08-11 15:55:22
 Filesystem                  Size  Used  Avail  Use%  Mounted_on
 /dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
 /dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
 
-2025-08-11 15:50:24
-Filesystem                  Size  Used  Avail  Use%  Mounted_on
-/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
-/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
-
-2025-08-11 15:50:46
-Filesystem                  Size  Used  Avail  Use%  Mounted_on
-/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
-/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
-
-15:57:10 08/11/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
+16:01:47 08/11/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
                   4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
-                  4   w    0    0         2    2      0.144 0.144 4.1 4.1    -
-                  4   t    0    0         2    2      0.144 0.144 4.1 4.1    0
+                  4   w    0    0         2    2      0.131 0.131 4.1 4.1    -
+                  4   t    0    0         2    2      0.131 0.131 4.1 4.1    0
+
+2025-08-11 15:55:26
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+
+16:01:51 08/11/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
+                  4   w    4    4        46   46      0.130 0.130 11.8 11.8    -
+                  4   t    4    4        46   46      0.130 0.130 11.8 11.8    0
+
+2025-08-11 15:55:58
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+
+16:02:23 08/11/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   w    1    1         8    8      0.124 0.124 5.5 5.5    -
+                  4   t    1    1         8    8      0.124 0.124 5.5 5.5    0
+
+2025-08-11 15:56:17
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+
+16:02:42 08/11/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
+                  4   w    2    2        40   40      0.149 0.149 20.5 20.5    -
+                  4   t    2    2        40   40      0.149 0.149 20.5 20.5    0
+
+2025-08-11 15:57:50
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+
+16:04:15 08/11/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
+                  4   w   17   17       156  156      0.144 0.144  9.4  9.4    -
+                  4   t   17   17       156  156      0.144 0.144  9.4  9.4    0
+
