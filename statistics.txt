@@ -1,19 +1,3 @@
-2025-08-12 21:30:01
-============================================
-     Filesystem Utilization
-============================================
-Filesystem                  Size  Used  Avail  Use%  Mounted_on
-/dev/mapper/vg_cache-lvol1  100T  714G  100T   1%    /CACHE
-/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
-
-============================================
-     3PAR VLUN Statistics
-============================================
-21:36:28 08/12/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
-                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
-                  4   w    1    1        34   34      0.159 0.159 34.8 34.8    -
-                  4   t    1    1        34   34      0.159 0.159 34.8 34.8    0
-
 2025-08-12 22:30:01
 ============================================
      Filesystem Utilization
@@ -74,6 +58,22 @@ Filesystem                  Size  Used  Avail  Use%  Mounted_on
      3PAR VLUN Statistics
 ============================================
 01:36:28 08/13/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
+
+2025-08-13 02:30:01
+============================================
+     Filesystem Utilization
+============================================
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  714G  100T   1%    /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+
+============================================
+     3PAR VLUN Statistics
+============================================
+02:36:28 08/13/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
                   4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
