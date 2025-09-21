@@ -1,26 +1,3 @@
-2025-09-21 12:30:01
-============================================
-     Filesystem Utilization
-============================================
-Filesystem                  Size  Used  Avail  Use%  Mounted_on
-/dev/mapper/vg_cache-lvol1  100T  72T   29T    72%   /CACHE
-/dev/mapper/vg_data-lvol1   360T  4.1T  356T   2%    /Staging_1
-6m_5                        482T  472T  9.7T   98%   /mnt/6m_5
-6m_7                        480T  476T  4.4T   100%  /mnt/6m_7
-6m_1                        511T  498T  14T    98%   /mnt/6m_1
-6m_2                        481T  476T  4.8T   100%  /mnt/6m_2
-6m_3                        722T  714T  7.9T   99%   /mnt/6m_3
-6m_4                        763T  760T  2.9T   100%  /mnt/6m_4
-6m_6                        453T  447T  5.8T   99%   /mnt/6m_6
-
-============================================
-     Alletra VLUN Statistics
-============================================
-12:37:31 09/21/2025 r/w I/O per second          KBytes per sec        Svt ms         IOSz KB     
-                  4   r  253  253      1047111 1047111          5.209  5.209  4138.6  4138.6    -
-                  4   w  100  100       993381  993381         15.639 15.639  9940.1  9940.1    -
-                  4   t  353  353      2040492 2040492          8.162  8.162  5781.3  5781.3    0
-
 2025-09-21 13:30:01
 ============================================
      Filesystem Utilization
@@ -109,6 +86,29 @@ Filesystem                  Size  Used  Avail  Use%  Mounted_on
      Alletra VLUN Statistics
 ============================================
 16:37:31 09/21/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
+
+2025-09-21 17:30:01
+============================================
+     Filesystem Utilization
+============================================
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  71T   30T    71%   /CACHE
+/dev/mapper/vg_data-lvol1   360T  3.6T  357T   1%    /Staging_1
+6m_5                        483T  473T  9.7T   99%   /mnt/6m_5
+6m_7                        482T  478T  4.2T   100%  /mnt/6m_7
+6m_1                        514T  500T  14T    98%   /mnt/6m_1
+6m_2                        482T  477T  4.6T   100%  /mnt/6m_2
+6m_3                        724T  716T  7.7T   99%   /mnt/6m_3
+6m_4                        764T  761T  2.8T   100%  /mnt/6m_4
+6m_6                        453T  448T  5.7T   99%   /mnt/6m_6
+
+============================================
+     Alletra VLUN Statistics
+============================================
+17:37:31 09/21/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
                   4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
