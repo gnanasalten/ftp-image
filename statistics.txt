@@ -1,26 +1,3 @@
-2025-09-22 22:30:01
-============================================
-     Filesystem Utilization
-============================================
-Filesystem                  Size  Used  Avail  Use%  Mounted_on
-/dev/mapper/vg_cache-lvol1  100T  714G  100T   1%    /CACHE
-/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
-6m_1                        17T   0     17T    0%    /mnt/6m_1
-6m_2                        17T   0     17T    0%    /mnt/6m_2
-6m_3                        17T   0     17T    0%    /mnt/6m_3
-6m_4                        17T   0     17T    0%    /mnt/6m_4
-6m_5                        17T   0     17T    0%    /mnt/6m_5
-6m_6                        17T   0     17T    0%    /mnt/6m_6
-6m_7                        17T   0     17T    0%    /mnt/6m_7
-
-============================================
-     Alletra VLUN Statistics
-============================================
-22:37:33 09/22/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
-                  4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
-                  4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
-                  4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
-
 2025-09-22 23:30:01
 ============================================
      Filesystem Utilization
@@ -109,6 +86,29 @@ Filesystem                  Size  Used  Avail  Use%  Mounted_on
      Alletra VLUN Statistics
 ============================================
 02:37:34 09/23/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
+                  4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
+
+2025-09-23 03:30:01
+============================================
+     Filesystem Utilization
+============================================
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  714G  100T   1%    /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+6m_1                        17T   0     17T    0%    /mnt/6m_1
+6m_2                        17T   0     17T    0%    /mnt/6m_2
+6m_3                        17T   0     17T    0%    /mnt/6m_3
+6m_4                        17T   0     17T    0%    /mnt/6m_4
+6m_5                        17T   0     17T    0%    /mnt/6m_5
+6m_6                        17T   0     17T    0%    /mnt/6m_6
+6m_7                        17T   0     17T    0%    /mnt/6m_7
+
+============================================
+     Alletra VLUN Statistics
+============================================
+03:37:34 09/23/2025 r/w I/O per second KBytes per sec      Svt ms IOSz KB     
                   4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
