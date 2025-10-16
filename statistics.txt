@@ -1,26 +1,3 @@
-2025-10-16 11:30:01
-============================================
-     Filesystem Utilization
-============================================
-Filesystem                  Size  Used  Avail  Use%  Mounted_on
-/dev/mapper/vg_cache-lvol1  100T  714G  100T   1%    /CACHE
-/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
-6m_1                        33T   0     33T    0%    /mnt/6m_1
-6m_2                        33T   0     33T    0%    /mnt/6m_2
-6m_3                        33T   0     33T    0%    /mnt/6m_3
-6m_4                        33T   0     33T    0%    /mnt/6m_4
-6m_5                        33T   0     33T    0%    /mnt/6m_5
-6m_6                        33T   0     33T    0%    /mnt/6m_6
-6m_7                        33T   0     33T    0%    /mnt/6m_7
-
-============================================
-     Alletra VLUN Statistics
-============================================
-11:38:09 10/16/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
-                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
-                  4   w    2    2        42   42      0.139 0.139 17.2 17.2    -
-                  4   t    2    2        42   42      0.139 0.139 17.2 17.2    0
-
 2025-10-16 12:30:01
 ============================================
      Filesystem Utilization
@@ -112,4 +89,27 @@ Filesystem                  Size  Used  Avail  Use%  Mounted_on
                   4   r    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   w    0    0         0    0      0.000 0.000 0.0 0.0    -
                   4   t    0    0         0    0      0.000 0.000 0.0 0.0    0
+
+2025-10-16 16:30:01
+============================================
+     Filesystem Utilization
+============================================
+Filesystem                  Size  Used  Avail  Use%  Mounted_on
+/dev/mapper/vg_cache-lvol1  100T  714G  100T   1%    /CACHE
+/dev/mapper/vg_data-lvol1   360T  2.6T  358T   1%    /Staging_1
+6m_1                        33T   0     33T    0%    /mnt/6m_1
+6m_2                        33T   0     33T    0%    /mnt/6m_2
+6m_3                        33T   0     33T    0%    /mnt/6m_3
+6m_4                        33T   0     33T    0%    /mnt/6m_4
+6m_5                        33T   0     33T    0%    /mnt/6m_5
+6m_6                        33T   0     33T    0%    /mnt/6m_6
+6m_7                        33T   0     33T    0%    /mnt/6m_7
+
+============================================
+     Alletra VLUN Statistics
+============================================
+16:38:10 10/16/2025 r/w I/O per second KBytes per sec      Svt ms   IOSz KB     
+                  4   r    0    0         0    0      0.000 0.000  0.0  0.0    -
+                  4   w    3    3        58   58      0.126 0.126 17.0 17.0    -
+                  4   t    3    3        58   58      0.126 0.126 17.0 17.0    0
 
